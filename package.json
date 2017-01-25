@@ -1,0 +1,20 @@
+{
+  "name": "wdsscyberu",
+  "version": "1.0.0",
+  "description": "Web Api For Western-U Dss With Cyber U Data",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Chanupol",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^2.1.4",
+    "boom": "^4.2.0",
+    "hapi": "^16.1.0",
+    "inert": "^4.1.0",
+    "joi": "^10.2.0",
+    "mssql": "^3.3.0",
+    "node-uuid": "^1.4.7"
+  }
+}
